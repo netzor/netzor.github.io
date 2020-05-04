@@ -1,3 +1,2 @@
 # Hello World!
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Stein Logo](/images/stein-logo.svg)
